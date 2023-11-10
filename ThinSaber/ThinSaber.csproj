@@ -119,7 +119,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Directory.Build.props" Condition="Exists('Directory.Build.props')" />
-    <None Include="README.md" />
     <None Include="ThinSaber.csproj.user" Condition="Exists('ThinSaber.csproj.user')" />
     <EmbeddedResource Include="Views\Views.bsml" />
   </ItemGroup>
