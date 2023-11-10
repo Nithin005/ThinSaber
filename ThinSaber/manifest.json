@@ -1,0 +1,16 @@
+﻿{
+    "$schema": "https://raw.githubusercontent.com/bsmg/BSIPA-MetadataFileSchema/master/Schema.json",
+    "id": "ThinSaber",
+    "name": "ThinSaber",
+    "author": "Nithin005",
+    "version": "0.0.1",
+    "description": "Change Saber's Width",
+    "gameVersion": "1.19.0",
+    "dependsOn": {
+        "BSIPA": "^4.2.0"
+    },
+    "loadAfter": [
+        "BeatSaberMarkupLanguage",
+        "BS Utils"
+    ]
+}
